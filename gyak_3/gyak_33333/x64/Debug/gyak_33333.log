@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\1_gyak\gyak_33333\gyak_33333\main.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gyak_33333.vcxproj -> C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\1_gyak\gyak_33333\x64\Debug\gyak_33333.exe

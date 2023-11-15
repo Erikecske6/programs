@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\gyak_6\gyak_6\main.cpp(66,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\gyak_6\gyak_6\main.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\gyak_6\gyak_6\main.cpp(136,17): warning C4930: 'meroberendezes blabla(void)': prototyped function not called (was a variable definition intended?)
+  gyak_6.vcxproj -> C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\gyak_6\x64\Debug\gyak_6.exe

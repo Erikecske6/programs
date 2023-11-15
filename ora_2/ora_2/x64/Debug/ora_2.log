@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+  main.cpp
+  Generating Code...
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\1_gyak\ora_2\ora_2\main.cpp(35): warning C4717: 'infLoop': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\1_gyak\ora_2\ora_2\main.cpp(31): warning C4715: 'FactorRekurzio': not all control paths return a value
+  ora_2.vcxproj -> C:\Users\groze\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\III._félév\OOP_prog\1_gyak\ora_2\x64\Debug\ora_2.exe
